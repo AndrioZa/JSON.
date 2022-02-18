@@ -1,6 +1,6 @@
-var person = {
-  full name: "Zarubo Andrei Andreevich",
-  age: 34,
-  number of pets: 0,
-  future desired salary: 50000
-};
+{
+  "full_name": "Zarubo_Andrei_Andreevich",
+  "age": 34,
+  "number_of_pets": 0,
+  "future_desired_salary": 50000
+}
