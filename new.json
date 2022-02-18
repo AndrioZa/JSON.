@@ -1,0 +1,6 @@
+var person = {
+  full name: "Zarubo Andrei Andreevich",
+  age: 34,
+  number of pets: 0,
+  future desired salary: 50000
+};
