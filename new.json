@@ -1,6 +1,6 @@
 {
-  full_name: "Zarubo_Andrei_Andreevich",
+  "full_name": "Zarubo_Andrei_Andreevich",
   age: 34,
-  number_of_pets: 0,
-  future_desired_salary: 50000
+  "number_of_pets": 0,
+  "future_desired_salary": 50000
 }
